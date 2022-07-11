@@ -7,11 +7,14 @@
   <a href="https://w4s4p34.github.io">
     <img src="https://img.shields.io/badge/🌿_Wasapea-4b692f?style=for-the-badge" alt="Wasapea Website Badge" />
   </a>
-  <a href="">
+  <a href="#Greetings">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="#Greetings">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="#Greetings">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
