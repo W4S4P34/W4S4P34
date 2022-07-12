@@ -4,7 +4,7 @@
 </div>
 
 <div id="Badges" align="center">
-  <a href="https://w4s4p34.github.io/profile">
+  <a href="https://w4s4p34.github.io/profile/">
     <img src="https://img.shields.io/badge/🌿_Wasapea-4b692f?style=for-the-badge" alt="Wasapea Website Badge" />
   </a>
   <a href="#Greetings">
