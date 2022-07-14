@@ -1,5 +1,5 @@
 <div id="Greetings" align="center">
-  <img src="Assets/Wasapea.png" alt="Wasapea Banner" width="100%"/>
+  <img src="Assets/Wasapea.png" alt="Wasapea Banner" width="65%"/>
   <h3 align="center"> 🌿 WELCOME TO MY PROFILE 🌿 </h3>
 </div>
 
