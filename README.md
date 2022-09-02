@@ -1,5 +1,5 @@
 <div id="Wallpaper" align="center">
-  <img src="./Assets/Wasapea.png" alt="Wasapea Wallpaper" width="75%" />
+  <img src="./Assets/Wasapea.png" alt="Wasapea Wallpaper" width="50%" />
 </div>
 
 <div id="Greetings" align="center">
