@@ -1,9 +1,13 @@
+<div id="Wallpaper" align="center">
+  <img src="./Assets/Wasapea.png" alt="Wasapea Wallpaper" width="75%" />
+</div>
+
 <div id="Greetings" align="center">
   <h3 align="center"> 🌿 WELCOME TO MY PROFILE 🌿 </h3>
 </div>
 
 <div id="Badges" align="center">
-  <a href="https://w4s4p34.github.io/profile/">
+  <a href="https://w4s4p34.github.io/">
     <img src="https://img.shields.io/badge/🌿_Wasapea-4b692f?style=for-the-badge" alt="Wasapea Website Badge" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-la/">
