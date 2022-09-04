@@ -31,9 +31,9 @@
 <div id="Bio">
   <h3 align="center"> 🌿 BIO 🌿 </h3>
   <p> 🕛 <strong>Timezone:</strong> Ho Chi Minh city, Vietnam (GMT+7)</p>
-  <p> 🏫 <strong>Studying At:</strong> VNUHCM - University of Science (🎓 Bachelor's Degree - Software Engineering)</p>
+  <p> 🏫 <strong>Studying At:</strong> VNUHCM - University of Science (🎓 Bachelor's Degree - Software Engineer)</p>
   <p> 🏢 <strong>Working At:</strong> <i>None</i></p>
-  <p> 🌟 <strong>Pursuing Career:</strong> Game Developer, especially on Rendering Engineering</p>
+  <p> 🌟 <strong>Pursuing Career:</strong> Game Developer, especially major in Rendering</p>
   <p> ⚙️ <strong>Using Engines:</strong>
     <img src="Assets/Unity.svg" height="15" width="15"> Unity Engine (mostly) and
     <img src="Assets/Godot.svg" height="15" width="15"> Godot Engine (sometimes)
