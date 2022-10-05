@@ -21,18 +21,18 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=W4S4P34&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=W4S4P34&show_icons=true&theme=merko&hide_title=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-bqjfo06je-w4s4p34.vercel.app/api?username=W4S4P34&show_icons=true&theme=merko&hide_title=true&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4S4P34&layout=compact&theme=merko&hide_title=true&langs_count=10" />
+    <img src="https://github-readme-stats-bqjfo06je-w4s4p34.vercel.app/api/top-langs/?username=W4S4P34&layout=compact&theme=merko&hide_title=true&langs_count=10" />
   </a>
 </div>
 
 <div id="Bio">
   <h3 align="center"> 🌿 BIO 🌿 </h3>
   <p> 🕛 <strong>Timezone:</strong> Ho Chi Minh city, Vietnam (GMT+7)</p>
-  <p> 🏫 <strong>Studying At:</strong> VNUHCM - University of Science (🎓 Bachelor's Degree - Software Engineer)</p>
-  <p> 🏢 <strong>Working At:</strong> <i>None</i></p>
+  <p> 🏫 <strong>Graduated At:</strong> VNUHCM - University of Science (🎓 Bachelor's Degree - Software Engineer)</p>
+  <p> 🏢 <strong>Working As:</strong> Freelance Game Developer at Garena</p>
   <p> 🌟 <strong>Pursuing Career:</strong> Game Developer, especially major in Rendering</p>
   <p> ⚙️ <strong>Using Engines:</strong>
     <img src="Assets/Unity.svg" height="15" width="15"> Unity Engine (mostly) and
@@ -80,9 +80,9 @@
     </thead>
     <tbody>
       <tr>
-        <td><i>None</i></td>
-        <td><i>None</i></td>
-        <td><i>None</i></td>
+        <td><i>Game Developer @ Garena</i></td>
+        <td><i>Freelancer</i></td>
+        <td><i>October, 2022 - Present</i></td>
       </tr>
     </tbody>
   </table>
