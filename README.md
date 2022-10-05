@@ -80,9 +80,9 @@
     </thead>
     <tbody>
       <tr>
-        <td><i>Game Developer @ Garena</i></td>
-        <td><i>Freelancer</i></td>
-        <td><i>October, 2022 - Present</i></td>
+        <td>Game Developer @ Garena</td>
+        <td>Freelancer</td>
+        <td>October, 2022 - Present</td>
       </tr>
     </tbody>
   </table>
