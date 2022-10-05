@@ -34,6 +34,22 @@
   <p> 🏫 <strong>Graduated At:</strong> VNUHCM - University of Science (🎓 Bachelor's Degree - Software Engineer)</p>
   <p> 🏢 <strong>Working As:</strong> Freelance Game Developer at Garena</p>
   <p> 🌟 <strong>Pursuing Career:</strong> Game Developer, especially major in Rendering</p>
+  <p> 👄 <strong>Conversational Languages:</strong>
+    <ul>
+      <li>⭐ Vietnamese (Native proficiency)</li>
+      <li>⭐ English (Professional working proficiency)</li>
+    </ul>
+  </p>
+  <p> 📄 <strong>Publications:</strong>
+    <ul>
+      <li>
+        🌞 <strong>360TourGuiding: Towards Virtual Reality Training for Tour Guiding</strong></br>
+        MobileHCI '22: Adjunct Publication of the 24th International Conference on Human-Computer Interaction with Mobile Devices and Services | Sep 28, 2022 </br>
+        Duy-Nam Ly | Thanh-Thai La | Khanh-Duy Le | Cuong Nguyen | Morten Fjeld | Thanh Ngoc-Dat Tran | Minh-Triet Tran</br>
+        ACM ISBN 978-1-4503-9341-6/22/09 | <a href="https://doi.org/10.1145/3528575.3551436">Show This Publication</a> 
+      </li>
+    </ul>
+  </p>
   <p> ⚙️ <strong>Using Engines:</strong>
     <img src="Assets/Unity.svg" height="15" width="15"> Unity Engine (mostly) and
     <img src="Assets/Godot.svg" height="15" width="15"> Godot Engine (sometimes)
