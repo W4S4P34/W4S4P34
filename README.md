@@ -21,10 +21,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=W4S4P34&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-bqjfo06je-w4s4p34.vercel.app/api?username=W4S4P34&show_icons=true&theme=merko&hide_title=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-w4s4p34.vercel.app/api?username=W4S4P34&show_icons=true&theme=merko&hide_title=true&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-bqjfo06je-w4s4p34.vercel.app/api/top-langs/?username=W4S4P34&layout=compact&theme=merko&hide_title=true&langs_count=10" />
+    <img src="https://github-readme-stats-w4s4p34.vercel.app/api/top-langs/?username=W4S4P34&layout=compact&theme=merko&hide_title=true&langs_count=10" />
   </a>
 </div>
 
