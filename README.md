@@ -32,7 +32,7 @@
   <h3 align="center"> 🌿 BIO 🌿 </h3>
   <p> 🕛 <strong>Timezone:</strong> Ho Chi Minh city, Vietnam (GMT+7)</p>
   <p> 🏫 <strong>Graduated At:</strong> VNUHCM - University of Science (🎓 Bachelor's Degree - Software Engineer)</p>
-  <p> 🏢 <strong>Working As:</strong> Freelance Game Developer at Garena</p>
+  <p> 🏢 <strong>Working As:</strong> <i>None</i></p>
   <p> 🌟 <strong>Pursuing Career:</strong> Game Developer, especially major in Rendering</p>
   <p> 👄 <strong>Conversational Languages:</strong>
     <ul>
@@ -96,9 +96,9 @@
     </thead>
     <tbody>
       <tr>
-        <td>Game Developer @ Garena</td>
-        <td>Freelancer</td>
-        <td>October, 2022 - Present</td>
+        <td><i>None</i></td>
+        <td><i>None</i></td>
+        <td><i>None</i></td>
       </tr>
     </tbody>
   </table>
