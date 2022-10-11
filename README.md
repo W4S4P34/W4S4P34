@@ -107,6 +107,8 @@
   </p>
 </div>
 
+</br>
+
 <div id="Job-Experience">
   <h3 align="center"> 🌿 JOB EXPERIENCE 🌿 </h3>  
   <table align="center">
