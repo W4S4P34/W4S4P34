@@ -2,38 +2,52 @@
   <img src="./Assets/Wasapea.png" alt="Wasapea Wallpaper" width="50%" />
 </div>
 
+</br>
+
 <div id="Greetings" align="center">
-  <h3 align="center"> 🌿 WELCOME TO MY PROFILE 🌿 </h3>
+  <h3 align="center"><strong>🌿 WELCOME TO MY PROFILE 🌿</strong></h3>
 </div>
 
 <div id="Badges" align="center">
   <a href="https://w4s4p34.github.io/">
-    <img src="https://img.shields.io/badge/🌿_Wasapea-4b692f?style=for-the-badge" alt="Wasapea Website Badge" />
+    <img src="https://img.shields.io/badge/🌿_Portfolio-4b692f?style=for-the-badge" alt="Portfolio Badge" />
+  </a>
+  <a href="https://w4s4p34.github.io/Resume.pdf">
+    <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-4b692f?style=for-the-badge" alt="Resumé Badge" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-la/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-4b692f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+</br>
 
 <div id="Stats" align="center">
-  <h3 align="center"> 🌿 STATS 🌿 </h3>
+  <h3 align="center"><strong>🌿 STATS 🌿</strong></h3>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=W4S4P34&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=W4S4P34&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
+  </br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-w4s4p34.vercel.app/api?username=W4S4P34&show_icons=true&theme=merko&hide_title=true&include_all_commits=true&count_private=true" />
+    <img
+    src="https://github-readme-stats-w4s4p34.vercel.app/api?username=W4S4P34&show_icons=true&theme=merko&hide_title=true&include_all_commits=true&count_private=true" />
   </a>
+  </br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-w4s4p34.vercel.app/api/top-langs/?username=W4S4P34&layout=compact&theme=merko&hide_title=true&langs_count=10" />
+    <img
+    src="https://github-readme-stats-w4s4p34.vercel.app/api/top-langs/?username=W4S4P34&layout=compact&theme=merko&hide_title=true&langs_count=10" />
   </a>
 </div>
 
+</br>
+
 <div id="Bio">
-  <h3 align="center"> 🌿 BIO 🌿 </h3>
+  <h3 align="center"><strong>🌿 BIO 🌿</strong></h3>
   <p> 🕛 <strong>Timezone:</strong> Ho Chi Minh city, Vietnam (GMT+7)</p>
-  <p> 🏫 <strong>Graduated At:</strong> VNUHCM - University of Science (🎓 Bachelor's Degree - Software Engineer)</p>
+  <p> 🏫 <strong>Graduated At:</strong> VNUHCM - University of Science (🎓 Bachelor's Degree - Software Engineer - 4th-year High Quality Program)</p>
   <p> 🏢 <strong>Working As:</strong> <i>None</i></p>
-  <p> 🌟 <strong>Pursuing Career:</strong> Game Developer, especially major in Rendering</p>
+  <p> 🌟 <strong>Pursuing Career:</strong> Game Developer, especially major in Rendering Engineering</p>
   <p> 👄 <strong>Conversational Languages:</strong>
     <ul>
       <li>⭐ Vietnamese (Native proficiency)</li>
@@ -47,6 +61,14 @@
         MobileHCI '22: Adjunct Publication of the 24th International Conference on Human-Computer Interaction with Mobile Devices and Services | Sep 28, 2022 </br>
         Duy-Nam Ly | Thanh-Thai La | Khanh-Duy Le | Cuong Nguyen | Morten Fjeld | Thanh Ngoc-Dat Tran | Minh-Triet Tran</br>
         ACM ISBN 978-1-4503-9341-6/22/09 | <a href="https://doi.org/10.1145/3528575.3551436">Show This Publication</a> 
+      </li>
+    </ul>
+  </p>
+  <p> 🗃️ <strong>Certificates:</strong>
+    <ul>
+      <li>
+        📄 <strong>International English Language Testing System (IELTS) - Academic Module</strong></br>
+        Score: 7.0 · Oct 2022
       </li>
     </ul>
   </p>
@@ -68,18 +90,19 @@
   </p>
   <p> 🎈 <strong>Hobbies:</strong>
     <ul>
-      <li>📖 Books</li>
-      <li>🏸 Badminton</li>
-      <li>🏊🏻‍♂️ Swimming</li>
-      <li>🍳 Cooking</li>
       <li>🎮 Games</li>
+      <li>📖 Books</li>
       <li>🎶 Musics</li>
+      <li>🍳 Cooking</li>
+      <li>🏊🏻‍♂️ Swimming</li>
+      <li>🏃🏻‍♂️ Running</li>
+      <li>🏸 Badminton</li>
     </ul>
   </p>
-  <p> 🐾 <strong>Pets:</strong>
+  <p> 🐾 <strong>Favorite Pets:</strong>
     <ul>
-      <li>🐶 Dogs</li>
-      <li>😾 Cats</li>
+      <li>🐶 Dogs (Sammoyed)</li>
+      <li>😾 Cats (Sphynx)</li>
     </ul>
   </p>
 </div>
@@ -96,9 +119,9 @@
     </thead>
     <tbody>
       <tr>
-        <td><i>None</i></td>
-        <td><i>None</i></td>
-        <td><i>None</i></td>
+        <td>Research Intern - SELab (VNUHCM - University of Science)</td>
+        <td>Full-time Researcher</td>
+        <td>2021 - 2022 (1 year)</td>
       </tr>
     </tbody>
   </table>
