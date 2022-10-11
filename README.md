@@ -122,7 +122,7 @@
     <tbody>
       <tr>
         <td>Research Intern - SELab (VNUHCM - University of Science)</td>
-        <td>Full-time Researcher</td>
+        <td>Researcher</td>
         <td>2021 - 2022 (1 year)</td>
       </tr>
     </tbody>
