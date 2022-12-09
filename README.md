@@ -70,6 +70,10 @@
         📄 <strong>International English Language Testing System (IELTS) - Academic Module</strong></br>
         Score: 7.0 · Oct 2022
       </li>
+      <li>
+        📄 <strong>Recognized as Outstanding Science and Technology Research Student in 2022</strong></br>
+        Nov 2022
+      </li>
     </ul>
   </p>
   <p> ⚙️ <strong>Using Engines:</strong>
