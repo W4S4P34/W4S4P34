@@ -46,7 +46,7 @@
   <h3 align="center"><strong>🌿 BIO 🌿</strong></h3>
   <p> 🕛 <strong>Timezone:</strong> Ho Chi Minh city, Vietnam (GMT+7)</p>
   <p> 🏫 <strong>Graduated At:</strong> VNUHCM - University of Science (🎓 Bachelor's Degree - Software Engineer - 4th-year High Quality Program)</p>
-  <p> 🏢 <strong>Working As:</strong> <i>None</i></p>
+  <p> 🏢 <strong>Working As:</strong> Game Developer/Mobile Game Developer at Ateam Vietnam Co.,Ltd.</p>
   <p> 🌟 <strong>Pursuing Career:</strong> Game Developer, especially major in Rendering Engineering</p>
   <p> 👄 <strong>Conversational Languages:</strong>
     <ul>
@@ -124,6 +124,11 @@
         <td>Research Intern - SELab (VNUHCM - University of Science)</td>
         <td>Researcher</td>
         <td>2021 - 2022 (1 year)</td>
+      </tr>
+      <tr>
+        <td>Software Engineer - Ateam Vietnam Co.,Ltd.</td>
+        <td>Game Developer/Mobile Game Developer</td>
+        <td>12/2022 - now</td>
       </tr>
     </tbody>
   </table>
